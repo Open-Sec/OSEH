@@ -2,7 +2,7 @@
 
 **Open-Sec Ethical Hacker**
 
-![Image of RedTeamers](https://www.open-sec.com/img/Coin-2020.png)
+![Image of RedTeamers](https://raw.githubusercontent.com/Open-Sec/OSEH/master/oseh-2010.png)
 
 __TEMARIO__
 
