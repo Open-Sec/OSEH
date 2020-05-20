@@ -27,36 +27,32 @@ __TEMARIO__
 + Uso de scripts de NMAP
 + **Capture the Flag 2**
 
-Búsqueda y Comprobación de Vulnerabilidades
-4 horas
-    • Aplicación de Herramientas Automatizadas
-    • Búsqueda de vulnerabilidades mediante scripts de NMAP
-    • Capture the Flag 3
-    • Escaneador de vulnerabilidades especializado
-    • Capture the Flag 4
+**Búsqueda y Comprobación de Vulnerabilidades**
++ Aplicación de Herramientas Automatizadas
++ Búsqueda de vulnerabilidades mediante scripts de NMAP
++ **Capture the Flag 3**
++ Escaneador de vulnerabilidades especializado
++ **Capture the Flag 4**
 
-Explotación de Vulnerabilidades
-6 horas
-    • Conexiones Directa y Reversas
-    • Introducción a las Herramientas de Explotación de Vulnerabilidades
-    • Introducción a Metasploit. Estructura de Payload en Metasploit.
-    • Capture the Flag 5
-    • Explotación de Vulnerabilidades con exploits standalone
-    • Introducción a exploits basados en buffer overflow
-    • Personalización de exploits.
-    • Capture the Flag 6
+**Explotación de Vulnerabilidades**
++ Conexiones Directa y Reversas
++ Introducción a las Herramientas de Explotación de Vulnerabilidades
++ Introducción a Metasploit. Estructura de Payload en Metasploit.
++ **Capture the Flag 5**
++ Explotación de Vulnerabilidades con exploits standalone
++ Introducción a exploits basados en buffer overflow
++ Personalización de exploits.
++ **Capture the Flag 6**
 
-Post Explotación (Extracción de Credenciales en MS-Windows)
-4 horas
-    • Escalamiento de Privilegios en MS Windows
-    Tipos de credenciales
-    • Uso de mimikatz para obtención de credenciales
-    • Uso de herramientas de cracking de contraseñas offline
-    • Capture the Flag 7
+**Post Explotación (Extracción de Credenciales en MS-Windows)**
++ Escalamiento de Privilegios en MS Windows
++ Tipos de credenciales
++ Uso de mimikatz para obtención de credenciales
++ Uso de herramientas de cracking de contraseñas offline
++ **Capture the Flag 7**
 
-Pentest Aplicaciones
-    • Pruebas de Seguridad para Aplicaciones Web y Móviles
-    • Uso de un proxy para Pentest de Aplicaciones
-    • Vulnerabilidad de Inyección de SQL
-    • Capture the Flag 8
-3 horas
+**Pentest Aplicaciones**
++ Pruebas de Seguridad para Aplicaciones Web y Móviles
++ Uso de un proxy para Pentest de Aplicaciones
++ Vulnerabilidad de Inyección de SQL
++ **Capture the Flag 8**
