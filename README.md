@@ -51,7 +51,7 @@ __TEMARIO__
 + Uso de herramientas de cracking de contraseñas offline
 + **Capture the Flag 7**
 
-**Pentest Aplicaciones**
+**Introducción al Pentest de Aplicaciones**
 + Pruebas de Seguridad para Aplicaciones Web y Móviles
 + Uso de un proxy para Pentest de Aplicaciones
 + Vulnerabilidad de Inyección de SQL
